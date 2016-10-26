@@ -1,0 +1,23 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0EDA-0A8F
+
+ Directory of C:\Users\Soumya\Desktop\Team 10\OS project1
+
+10/06/2016  01:00 PM    <DIR>          .
+10/06/2016  01:00 PM    <DIR>          ..
+01/07/2015  04:14 PM             8,916 addLines.jar
+01/07/2015  04:14 PM            10,273 avgFile.jar
+09/21/2016  09:05 PM               121 batch1.xml
+09/21/2016  09:05 PM               286 batch2.xml
+09/21/2016  09:05 PM               324 batch3.xml
+09/21/2016  09:05 PM               303 batch4.xml
+09/21/2016  09:05 PM               325 batch5.xml
+01/07/2015  04:14 PM               105 cleanup.bat
+10/06/2016  01:00 PM                 0 dirout.txt
+10/06/2016  01:00 PM                 0 error.txt
+10/06/2016  12:58 PM            14,500 myBatchProcessor.jar
+07/09/2015  01:38 PM               706 numberdata.txt
+10/06/2016  12:59 PM               348 OS project.bat
+01/07/2015  04:14 PM             1,142 randomwords.txt
+              14 File(s)         37,349 bytes
+               2 Dir(s)  10,576,666,624 bytes free
